@@ -1,0 +1,38 @@
+
+
+.reg{
+    font-family: fantasy;
+    background-color: rgb(140, 248, 225);
+    color: black;
+}
+
+.reg input{
+    padding: 10px 10px;
+    width: 93%;
+    margin-left: 4%;
+
+}
+
+.reg1 input{
+    width: 5%;
+}
+
+.reg button{
+    background-color:green;
+    color: black;
+    padding: 10px 10px;
+    width: 100%;
+}
+.reg p{
+    margin-left: 4%;
+}
+.reg button{
+    
+    width: 95%;
+
+}
+
+.reg2 input{
+    text-align: left;
+    padding: 50px 10px;
+} 
